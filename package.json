@@ -16,7 +16,7 @@
     "postcss-value-parser": "^3.1.2",
     "coffee-script":        "1.10.0",
     "num2fraction":         "^1.2.2",
-    "browserslist":         "~1.0.1",
+    "browserslist":         "~1.7.7",
     "caniuse-db":           "^1.0.30000372",
     "postcss":              "^5.0.12"
   },
