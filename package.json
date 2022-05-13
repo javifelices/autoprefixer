@@ -18,7 +18,7 @@
     "num2fraction":         "^1.2.2",
     "browserslist":         "~1.0.1",
     "caniuse-db":           "^1.0.30000372",
-    "postcss":              "^5.0.12"
+    "postcss":              "^7.0.37"
   },
   "devDependencies": {
     "vinyl-source-stream": "1.1.0",
